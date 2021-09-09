@@ -1,4 +1,4 @@
-+ music
-+ friends
-+ family
-+ education
+* music
+* friends
+* family
+* education
