@@ -1,7 +1,7 @@
-*family*
-_wealth_
+* family *
+_ wealth _
 
-**friends**
-__health__
+** friends **
+__ health __
 
-_both make our **life** happiest_
+_ both make our **life** happiest _
